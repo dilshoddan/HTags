@@ -1,0 +1,4 @@
+consumerKey ck
+consumerSecret cs
+accessToken at
+accessTokenSecret ats
